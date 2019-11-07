@@ -33,74 +33,34 @@
 
                 <TextView
                     android:id="@+id/TextView1_1"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_1"
-                    android:gravity="center"
-
-                    android:textColor="#003366">
+                    style="@style/tvstyle">
                 </TextView>
 
                 <TextView
                     android:id="@+id/TextView1_2"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:gravity="center"
-                    android:text="@string/s1_3"
-                    android:textColor="#003366">
+                    style="@style/tvstyle">
 
                 </TextView>
 
                 <TextView
                     android:id="@+id/TextView1_3"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:gravity="center"
-                    android:text="@string/s1_10"
-                    android:textColor="#003366">
+                    style="@style/tvstyle">
 
                 </TextView>
 
                 <TextView
                     android:id="@+id/TextView1_4"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_10"
-                    android:textColor="#003366">
+                    style="@style/tvstyle">
 
                 </TextView>
 
                 <TextView
                     android:id="@+id/TextView1_5"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1">
-                    android:textColor="#003366"
+                    style="@style/tvstyle">
 
                 </TextView>
 
-                <TextView
-                    android:id="@+id/TextView1_6"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_10"
-                    android:textColor="#003366">
 
-                </TextView>
-
-                <TextView
-                    android:id="@+id/TextView1_7"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_10">
-
-                </TextView>
             </LinearLayout>
         </LinearLayout>
 
@@ -120,71 +80,32 @@
 
                 <TextView
                     android:id="@+id/TextView2_1"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_1"
-                    android:textColor="#003366">
+                    style="@style/tvstyle">
 
 
                 </TextView>
 
                 <TextView
                     android:id="@+id/TextView2_2"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_3"
-                    android:textColor="#003366">
+                    style="@style/tvstyle">
 
                 </TextView>
 
                 <TextView
                     android:id="@+id/TextView2_3"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_10"
-                    android:textColor="#003366">
+                    style="@style/tvstyle">
 
                 </TextView>
 
                 <TextView
                     android:id="@+id/TextView2_4"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_10"
-                    android:textColor="#003366">
+                    style="@style/tvstyle">
 
                 </TextView>
 
                 <TextView
                     android:id="@+id/TextView2_5"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1">
-                    android:textColor="#003366"
-
-                </TextView>
-
-                <TextView
-                    android:id="@+id/TextView2_6"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_10"
-                    android:textColor="#003366">
-
-                </TextView>
-
-                <TextView
-                    android:id="@+id/TextView2_7"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_10">
-
+                    style="@style/tvstyle">
                 </TextView>
             </LinearLayout>
         </LinearLayout>
@@ -203,68 +124,30 @@
 
                 <TextView
                     android:id="@+id/TextView3_1"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_1"
-                    android:textColor="#003366">
+                    style="@style/tvstyle">
                 </TextView>
 
                 <TextView
                     android:id="@+id/TextView3_2"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_3"
-                    android:textColor="#003366">
+                    style="@style/tvstyle">
 
                 </TextView>
 
                 <TextView
                     android:id="@+id/TextView3_3"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_10"
-                    android:textColor="#003366">
+                    style="@style/tvstyle">
 
                 </TextView>
 
                 <TextView
                     android:id="@+id/TextView3_4"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_10"
-                    android:textColor="#003366">
+                    style="@style/tvstyle">
 
                 </TextView>
 
                 <TextView
                     android:id="@+id/TextView3_5"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1">
-                    android:textColor="#003366"
-
-                </TextView>
-
-                <TextView
-                    android:id="@+id/TextView3_6"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_10"
-                    android:textColor="#003366">
-
-                </TextView>
-
-                <TextView
-                    android:id="@+id/TextView3_7"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_10">
+                    style="@style/tvstyle">
 
                 </TextView>
             </LinearLayout>
@@ -286,69 +169,30 @@
 
                 <TextView
                     android:id="@+id/TextView4_1"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_1"
-                    android:textColor="#003366">
+                    style="@style/tvstyle">
                 </TextView>
 
                 <TextView
                     android:id="@+id/TextView4_2"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_3"
-                    android:textColor="#003366">
+                    style="@style/tvstyle">
 
                 </TextView>
 
                 <TextView
                     android:id="@+id/TextView4_3"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_10"
-                    android:textColor="#003366">
+                    style="@style/tvstyle">
 
                 </TextView>
 
                 <TextView
                     android:id="@+id/TextView4_4"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_10"
-                    android:textColor="#003366">
+                    style="@style/tvstyle">
 
                 </TextView>
 
                 <TextView
                     android:id="@+id/TextView4_5"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1">
-                    android:textColor="#003366"
-
-                </TextView>
-
-                <TextView
-                    android:id="@+id/TextView4_6"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_10"
-                    android:textColor="#003366">
-
-                </TextView>
-
-                <TextView
-                    android:id="@+id/TextView4_7"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_10">
-
+                    style="@style/tvstyle">
                 </TextView>
             </LinearLayout>
         </LinearLayout>
@@ -368,70 +212,33 @@
 
                 <TextView
                     android:id="@+id/TextView5_1"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_1"
-                    android:textColor="#003366">
+                    style="@style/tvstyle">
                 </TextView>
 
                 <TextView
                     android:id="@+id/TextView5_2"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_3"
-                    android:textColor="#003366">
+                    style="@style/tvstyle">
 
                 </TextView>
 
                 <TextView
                     android:id="@+id/TextView5_3"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_10"
-                    android:textColor="#003366">
+                    style="@style/tvstyle">
 
                 </TextView>
 
                 <TextView
                     android:id="@+id/TextView5_4"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_10"
-                    android:textColor="#003366">
+                    style="@style/tvstyle">
 
                 </TextView>
 
                 <TextView
                     android:id="@+id/TextView5_5"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1">
-                    android:textColor="#003366"
-
+                    style="@style/tvstyle">
                 </TextView>
 
-                <TextView
-                    android:id="@+id/TextView5_6"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_10"
-                    android:textColor="#003366">
 
-                </TextView>
-
-                <TextView
-                    android:id="@+id/TextView5_7"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_10">
-
-                </TextView>
             </LinearLayout>
         </LinearLayout>
 
@@ -449,68 +256,30 @@
 
                 <TextView
                     android:id="@+id/TextView6_1"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_1"
-                    android:textColor="#003366">
+                    style="@style/tvstyle">
                 </TextView>
 
                 <TextView
                     android:id="@+id/TextView6_2"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_3"
-                    android:textColor="#003366">
+                    style="@style/tvstyle">
 
                 </TextView>
 
                 <TextView
                     android:id="@+id/TextView6_3"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_10"
-                    android:textColor="#003366">
+                    style="@style/tvstyle">
 
                 </TextView>
 
                 <TextView
                     android:id="@+id/TextView6_4"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_10"
-                    android:textColor="#003366">
+                    style="@style/tvstyle">
 
                 </TextView>
 
                 <TextView
                     android:id="@+id/TextView6_5"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1">
-                    android:textColor="#003366"
-
-                </TextView>
-
-                <TextView
-                    android:id="@+id/TextView6_6"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_10"
-                    android:textColor="#003366">
-
-                </TextView>
-
-                <TextView
-                    android:id="@+id/TextView6_7"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_10">
+                    style="@style/tvstyle">
 
                 </TextView>
             </LinearLayout>
@@ -530,70 +299,33 @@
 
                 <TextView
                     android:id="@+id/TextView7_1"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_1"
-                    android:textColor="#003366">
+                    style="@style/tvstyle">
                 </TextView>
 
                 <TextView
                     android:id="@+id/TextView7_2"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_3"
-                    android:textColor="#003366">
+                    style="@style/tvstyle">
 
                 </TextView>
 
                 <TextView
                     android:id="@+id/TextView7_3"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_10"
-                    android:textColor="#003366">
+                    style="@style/tvstyle">
 
                 </TextView>
 
                 <TextView
                     android:id="@+id/TextView7_4"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_10"
-                    android:textColor="#003366">
+                    style="@style/tvstyle">
 
                 </TextView>
 
                 <TextView
                     android:id="@+id/TextView7_5"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1">
-                    android:textColor="#003366"
+                    style="@style/tvstyle">
 
                 </TextView>
 
-                <TextView
-                    android:id="@+id/TextView7_6"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_10"
-                    android:textColor="#003366">
-
-                </TextView>
-
-                <TextView
-                    android:id="@+id/TextView7_7"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:text="@string/s1_10">
-
-                </TextView>
             </LinearLayout>
         </LinearLayout>
     </LinearLayout>
